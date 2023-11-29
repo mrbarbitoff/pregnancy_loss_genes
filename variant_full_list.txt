@@ -1,0 +1,283 @@
+Gene	Transcript	Variant	Aminoacid_change	Mutation type	Gestational_age_weeks	Recurrence	Analisys_type	Inheritance	Cause	Outcome	ACMG	Reference	
+LIAS	NM_006859	c.991T>C	p.W331R	missense	6	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+PADI6	NM_207421	c.122C>T	p.A41V	missense	12	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+ATE1	NM_007041	c.929G>A	p.C310Y	missense	9	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+INTS1	NM_001080453	c.3934C>A	p.L1312M	missense	7	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+PIKFYVE	NM_015040	c.3683A>T	p.Q1228L	missense	7	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+RAC1	NM_018890	c.230G>C	p.G77A	missense	7	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+SCARB1	NM_005505	c.20C>A	p.A7E	missense	7	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+OTX2	NM_172337	c.475C>A	p.P159T	missense	8	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+BPTF	NM_182641	c.2882T>A	p.I961K	missense	6	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+CREBBP	NM_004380	c.3107C>A	p.T1036K	missense	6	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+HSF1	NM_005526	c.1462C>G	p.L488V	missense	6	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+NF1	NM_000267	c.1648C>A	p.L550M	missense	6	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+PIKFYVE	NM_015040	c.3307A>G	p.K1103E	missense	6	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+PTCH1	NM_000264	c.3470C>A	p.A1157E	missense	6	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+RAPGEF2	NM_014247	c.3203T>A	p.V1068E	missense	6	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+RGS14	NM_006480	c.510C>G	p.S170R	missense	10	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+TRIM28	NM_005762	c.361A>C	p.K121Q	missense	10	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+PTPRB	NM_001109754	c.5561T>C	p.V1854A	missense	8	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+DIDO1	NM_033081	c.3064C>T	p.P1022S	missense	9	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+KIF16B	NM_001199866	c.3802G>T	p.V1268F	missense	9	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+ZNF568	NM_198539	c.514A>T	p.R172X	stop gained	9	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+FAM208A	NM_015224	c.1616A>G	p.H539R	missense	8	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+KAT2A	NM_021078	c.671C>A	p.P224H	missense	8	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+KDM1A	NM_015013	c.1759A>T	p.N587Y	missense	8	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+LDB1	NM_003893	c.662C>T	p.S221L	missense	8	NA	Fetus	NA	Miscarriage	Miscarriage	P	Fu et al., 2018	
+NOTCH1	NM_017617	c.2953C>G	p.P985A	missense	8	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+POGLUT1	NM_152305	c.832T>G	p.F278V	missense	8	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+CDH5	NM_001795	c.1138C>T	p.Q380X	stop gained	6	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+GAS1	NM_002048	c.610C>T	p.R204C	missense	6	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+DLX3	NM_005220	c.314C>T	p.A105V	missense	5	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+PTPRB	NM_001109754	c.359T>C	p.V120A	missense	5	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+INTS1	NM_001080453	c.6475C>T	p.L2159F	missense	10	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+SALL4	NM_020436	c.733C>A	p.H245N	missense	10	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+SRRT	NM_015908	c.1148A>C	p.K383T	missense	11	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+VPS26A	NM_004896	c.758C>T	p.A253V	missense	11	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+CREBBP	NM_004380	c.2917C>A	p.P973T	missense	8	NA	Fetus	NA	Miscarriage	Miscarriage	NA	Fu et al., 2018	
+FGFR2	NM_022970.3	c.764G>A	p.R255Q	NA	36	RPL	Trio	Inherited	Neonatal death	Miscarriage	(LP) in vitro	Byrne et al., 2023	
+DNAJB11	NM_016306.6	c.853-10 G > A	NA	NA	24	RPL	Trio	Inherited	Termination	Termination	(LP) RNA	Byrne et al., 2023	
+MKS1	NM_017777.3	c.1024 + 1 G > T	NA	NA	13	RPL	Trio	Inherited	Termination	Termination	(P)	Byrne et al., 2023	
+MKS1	NM_017777.3	c.1408-34_6del29	NA	NA	13	RPL	Trio	Inherited	Termination	Termination	(P) RNA	Byrne et al., 2023	
+MDFIC	ENST00000393486.1	c.391dupA	p.M131fs*	NA	26	RPL	Trio	Inherited	Neonatal death	Miscarriage	(P)	Byrne et al., 2023	
+MDFIC	NM_199072.4	c.1059T>G	p.F353L	NA	26	RPL	Trio	Inherited	Neonatal death	Miscarriage	(LP) RNA, in vitro, in vivo, kindreds	Byrne et al., 2023	
+ABCC8	ENST00000302539.4	c.4631T>C	p.L1543P	NA	39	NO	Trio	De novo	Stillbirth	Miscarriage	(P)	Byrne et al., 2023	
+B3GAT3	NM_012200.4	c.505C>T	p.R169W	NA	16	RPL	Quad	Inherited	Miscarriage	Miscarriage	(P)	Byrne et al., 2023	
+B3GAT3	NM_012200.4	c.673C>T	p.R225*	NA	16	RPL	Quad	Inherited	Miscarriage	Miscarriage	(P) in vitro	Byrne et al., 2023	
+PIBF1	NM_006346.3	c.954 G > A	p.Lys318Lys	NA	22	NO	Trio	De novo	Termination	Termination	(LP)	Byrne et al., 2023	
+PIBF1	NM_006346.3	c.1056_1068del13	p.K353fs*	NA	22	NO	Trio	De novo	Termination	Termination	(P) RNA	Byrne et al., 2023	
+RIT1	NM_001256821.1	c.170C>G	p.A57G	NA	16	NO	Trio	De novo	Termination	Termination	(P)	Byrne et al., 2023	
+TPI1	NM_001159287.1	c.426G>C	p.Glu142Asp	NA	40	NO	Trio	De novo	Neonatal death	Miscarriage	(P)	Byrne et al., 2023	
+TPI1	NM_001159287.1	c.655-1G>C	NA	NA	40	NO	Trio	De novo	Neonatal death	Miscarriage	(P) RNA	Byrne et al., 2023	
+ARID1B	NM_017519.2	c.4497_4504del8	p.W1499*	NA	20	NO	Trio	De novo	Termination	Termination	(P)	Byrne et al., 2023	
+NDE1	NM_001143979.1	c.726delG	p.T243Pfs*	NA	22	NO	Trio	De novo	Termination	Termination	(P)	Byrne et al., 2023	
+NDE1	NM_001143979.1	c.733dupC	p.L245Pfs*	NA	22	NO	Trio	De novo	Termination	Termination	(P)	Byrne et al., 2023	
+EIF2B2	NM_014239.4	c.284 + 5 G > T	NA	NA	35	RPL	Quad	Inherited	Neonatal death	Miscarriage	(P)	Byrne et al., 2023	
+EIF2B2	NM_014239.4	c.514C>T	p.R172*	NA	35	RPL	Quad	Inherited	Neonatal death	Miscarriage	(P) RNA	Byrne et al., 2023	
+NEB	NM_001164508.1	c.13130_13131delTG	p.M4377Kfs*	NA	19	NO	Trio	De novo	Termination	Termination	(P)	Byrne et al., 2023	
+NEB	NM_001164508.1	c.20719delC	p.H6907Ifs*	NA	19	NO	Trio	De novo	Termination	Termination	(P)	Byrne et al., 2023	
+NALCN	NM_052867.4	c.3970C>T	p.L1324F	NA	17	NO	Trio	De novo	Miscarriage	Miscarriage	(LP)	Byrne et al., 2023	
+CANT1	NM_138793.3	c.643G>A	p.E215K	NA	18	RPL	Trio	Inherited	Termination	Termination	(LP) in vitro	Byrne et al., 2023	
+PBX1	NM_001204961.1	c.319C>T	p.R107W	NA	38	RPL	Trio	Inherited	Neonatal death	Miscarriage	(LP)	Byrne et al., 2023	
+GNB2	NM_005273.3	c.265A>G	p.K89E	NA	20	NO	Trio	De novo	Termination	Termination	(P) kindreds	Byrne et al., 2023	
+KMT2D	NM_003482.3	c.6991delC	p.L2331*	NA	21	NO	Trio	De novo	Termination	Termination	(P)	Byrne et al., 2023	
+SOS2	NM_006939.3	c.883A>G	p.T295A	NA	21	NO	Trio	De novo	Termination	Termination	(LP)	Byrne et al., 2023	
+HNF1B	NM_000458.3	c.344 + 2_5delTAGG	NA	NA	22	NO	Trio	De novo	Termination	Termination	(P)	Byrne et al., 2023	
+ARID1A	NM_006015.5	c.3406G>T	p.A1136S	NA	20	NO	Trio	De novo	Termination	Termination	(LP)	Byrne et al., 2023	
+ARSL	NM_000047.2	c.1207C>T	p.R403*	NA	17	RPL	Quad	Inherited	Miscarriage	Miscarriage	(LP)	Byrne et al., 2023	
+NIPBL	NM_133433.3	c.7289A>G	p.Y2430C	NA	27	NO	Trio	De novo	Termination	Termination	(P)	Byrne et al., 2023	
+SAMD9	NM_017654.3	c.2471G>A	p.R824Q	NA	25	NO	Trio	De novo	Termination	Termination	(P)	Byrne et al., 2023	
+HUWE1	NM_031407.6	c.6527T>G	p.L2176R	NA	22	NO	Trio	De novo	Termination	Termination	(LP)	Byrne et al., 2023	
+SMARCB1	NM_003073.4	c.1130G>A	p.R377H	NA	23	NO	Trio	De novo	Termination	Termination	(P)	Byrne et al., 2023	
+TUBA1A	NM_006009.3	c.190C>T	p.R64W	NA	22	NO	Trio	De novo	Termination	Termination	(P)	Byrne et al., 2023	
+RAF1	NM_002880.3	c.1837C>G	p.L613V	NA	19	NO	Trio	De novo	Termination	Termination	(P)	Byrne et al., 2023	
+GREB1L	NM_001142966.2	c.5614dupA	p.T1872Nfs*	NA	20	NO	Trio	De novo	Termination	Termination	(P)	Byrne et al., 2023	
+MAP2K2	NM_030662.3	c.620A>C	p.E207A	NA	30	NO	Trio	De novo	Neonatal death	Miscarriage	(LP)	Byrne et al., 2023	
+PTPN11	NM_002834.4	c.218C>T	p.T73I	NA	33	NO	Trio	De novo	Neonatal death	Miscarriage	(P)	Byrne et al., 2023	
+POLG	NM_001126131.1	c.926G>A	p.R309H	NA	21	RPL	Trio	Inherited	Termination	Termination	(P)	Byrne et al., 2023	
+POLG	NM_001126131.1	c.1399G>A	p.A467T	NA	21	RPL	Trio	Inherited	Termination	Termination	(P)	Byrne et al., 2023	
+DDX3X	NM_001356.4	c.1703C>T	p.P568L	NA	21	NO	Trio	De novo	Termination	Termination	(P)	Byrne et al., 2023	
+MECOM	NM_001105077.3	c.2208+4A>T		NA	20	NA	Trio	Inherited	Stillbirth	Miscarriage	(LP) RNA	Byrne et al., 2023	
+RYR2	NM_001035.2	c.12526G>A	p.V4176M	NA	20	NA	Trio	Inherited	Stillbirth	Miscarriage	(LP)	Byrne et al., 2023	
+ADAMTSL2	NM_001145320.1	c.338G>A	p.R113H	NA	30	RPL	Trio	Inherited	Neonatal death	Miscarriage	(P)	Byrne et al., 2023	
+ADAMTSL2	NM_001145320.1	c.1061delG	p.G354Afs*	NA	30	RPL	Trio	Inherited	Neonatal death	Miscarriage	(P)	Byrne et al., 2023	
+LZTR1	ENST00000215739.8	c.902G>T	p.G301V	NA	25	NO	Trio	De novo	Termination	Termination	(LP)	Byrne et al., 2023	
+FOXF1	ENST00000262426.4	c.881_902dupACCCCGCGGCCAACCCCCTGTC	p.G302Pfs*	NA	29	NA	Trio	Inherited	Neonatal death	Miscarriage	(P)	Byrne et al., 2023	
+PKHD1	ENST00000371117.3	c.1690C>T	p.R564*	NA	25	NO	Trio	De novo	Termination	Termination	(P)	Byrne et al., 2023	
+ACTA1	ENST00000366684.3	c.814G>A	p.E272K	NA	20	NO	Trio	De novo	Termination	Termination	(LP)	Byrne et al., 2023	
+USP9X	ENST00000324545.8	c.623_624delTT	p.F208Cfs*	NA	25	NO	Trio	De novo	Termination	Termination	(P)	Byrne et al., 2023	
+ACTA1	ENST00000366684.3	c.596G>A	p.G199D	NA	34	NO	Trio	De novo	Stillbirth	Miscarriage	(LP)	Byrne et al., 2023	
+USP9X	ENST00000324545.8	c.6736C>T	p.Q2246*	NA	27	NO	Trio	De novo	Stillbirth	Miscarriage	(P)	Byrne et al., 2023	
+TRAPPC12	ENST00000324266.5	c.445C>T	p.Q149*	NA	24	NO	Trio	De novo	Termination	Termination	(P)	Byrne et al., 2023	
+GATA3	NM_001002295.1	c.854G>A	p.C285Y	NA	20	NO	Trio	De novo	Termination	Termination	(LP)	Byrne et al., 2023	
+ARCN1	ENST00000264028.4	c.508C>T	p.R170*	NA	25	NO	Trio	De novo	Termination	Termination	(P)	Byrne et al., 2023	
+TUBA1A	NM_006009.3	c.235C>T	p.R79C	NA	22	NO	Trio	De novo	Termination	Termination	[P]	Byrne et al., 2023	
+NIPBL	NM_133433.3	c.5971G>A	p.D1991N	NA	21	NO	Trio	De novo	Termination	Termination	(LP)	Byrne et al., 2023	
+PRKACB	NM_182948.3	c.404A>T	p.H135L	NA	22	NO	Trio	De novo	Termination	Termination	(LP)	Byrne et al., 2023	
+ARSL	NM_000047.2	c.1219G>T	p.E407*	NA	25	RPL	Trio	Inherited	Stillbirth	Miscarriage	(LP)	Byrne et al., 2023	
+KMT2D	ENST00000301067.7	c.6040C>T	p.Q2014*	NA	NA	NO	Trio	De novo	Neonatal death	Miscarriage	(P)	Byrne et al., 2023	
+FGFR2	NM_022970.3	c.758C>G	p.P253R	NA	19	NO	Trio	De novo	Termination	Termination	(P)	Byrne et al., 2023	
+OSGEP	NM_017807.3	c.556C>T	p.R186*	NA	27	NO	Trio	De novo	Termination	Termination	(LP)	Byrne et al., 2023	
+COL2A1	NM_001844.5	c.3864_3865delCT	p.C1289Pfs*	NA	24	NO	Trio	De novo	Termination	Termination	(LP)	Byrne et al., 2023	
+PIEZO1	NM_001142864:exon1	c.30_31del	p.L10fs	Frame shift	18	RPL	Trio	Inherited	Miscarriage	Miscarriage	"(P)
+PSV1 PS3 PM3 PM4 PP3 PP4"	Najafi et al., 2021	
+BBS12	NM_152618:exon2	c.G2014A	p.A672T	Missense	<20	RPL	NA	NA	Miscarriage	Miscarriage	"VUS
+PM1 PM3 BS1"	Najafi et al., 2021	
+FUCA1	NM_000147:exon2	c.C404T	p.T135M	Missense	<20	RPL	Trio	Inherited	Miscarriage	Miscarriage	"(LP)
+PM1 PM2 PM3 PP3"	Najafi et al., 2021	
+FRAS1	NM_025074:exon57:	c.C8537A	p.A2846D	Missense	17	RPL	Trio	Inherited	Miscarriage	Miscarriage	"(LP)
+PM1 PM2 PM3 PP3 PP4 BP1"	Najafi et al., 2021	
+GBE1	NM_000158:exon4	c.G467A	p.R156H	Missense	13	RPL	Trio	Inherited	Miscarriage	Miscarriage	(LP) PM1 PM2 PM3	Najafi et al., 2021	
+GBE1	NM_000158	c.-35_-54del	NA	Frameshift 	13	RPL	Trio	Inherited	Miscarriage	Miscarriage	(P) PSV1 PM2 PM3	Najafi et al., 2021	
+COL1A1	NM_000088	c.A3746G	p.E1249G	Missense	<20	RPL	Trio	De novo	Miscarriage	Miscarriage	"(LP)
+PM1 PM2 PM6 PP3"	Najafi et al., 2021	
+POMT1	NM_001136114:exon7	c.C490T	p.Q164X	Stop gained	18	RPL	Trio	Inherited	Miscarriage	Miscarriage	"(P)
+PVS1 PM2 PM3 PP4 PP5"	Najafi et al., 2021	
+STIL	NM_001048166:exon9	c.C1012T	p.H338Y	Missense	<20	RPL	Trio	Inherited	Miscarriage	Miscarriage	"VUS
+PM2 PP3 PM3"	Najafi et al., 2021	
+COL1A1	NM_000088:exon47	c.G3505A	p.G1169S	Missense	18	RPL	Trio	De novo	Miscarriage	Miscarriage	"(LP)
+PS2 PM2 PP3 PP5"	Najafi et al., 2021	
+COG6	NM_020751:exon19:	c.T1884G	p.Y628X	Stop gained	<20	RPL	Trio	Inherited	Miscarriage	Miscarriage	"VUS
+PM2 PM3"	Najafi et al., 2021	
+SCN5A	NM_001160161:exon21	c.C3749T	p.T1250M	Missense	<20	RPL	Trio	Inherited	Misscariage	Miscarriage	"(P)
+PS3 PM1 PM2 PM3 PP3 PP5 BP1"	Najafi et al., 2021	
+DIS3L2	NM_152383.4:intron3	c.211-1G > A	NA	Substitution	15	RPL	Trio	Inherited	Misscariage	Miscarriage	"(LP)
+PVS1, PM2, PP3"	Najafi et al., 2021	
+DYNC2H1	NA	NA	p.Tyr2016Cys;	NA	<20	RPL	Trio	Inherited	Misscariage	Miscarriage	P	Qiao et al., 2016	
+DYNC2H1	NA	NA	p.Asp2184Val	NA	<20	RPL	Trio	Inherited	Misscariage	Miscarriage	P	Qiao et al., 2016	
+ALOX15	NA	NA	p.Tyr139Cys;	NA	<20	RPL	Trio	Inherited	Misscariage	Miscarriage	P	Qiao et al., 2016	
+ALOX15	NA	NA	p.Thr560Met	NA	<20	RPL	Trio	Inherited	Misscariage	Miscarriage	P	Qiao et al., 2016	
+NPHS1	NM_004646	c.2905delC	p.(Leu969Cysfs*32)	frameshift	22	NA	Fetus	NA	Fetal demise	Miscarriage	LP	Zhao et al., 2021	
+NPHS1	NM_004646	c.3110–5C>T	NA	splicing receptor site	22	NA	Fetus	NA	Fetal demise	Miscarriage	VUS	Zhao et al., 2021	
+NEFL	NM_006158	c.493G>T	p.(Glu165*)	nonsense	22	NA	Fetus	NA	Fetal anomaly	Miscarriage	LP	Zhao et al., 2021	
+CHD7	NM_017780	c.5428C>T	p.(Arg1810*)	nonsense	11	NA	Fetus	NA	Fetal anomaly of cystic hygroma	Miscarriage	LP	Zhao et al., 2021	
+GFM1	NM_024996	c.914delG	p.(Gly305Glufs*6)	frameshift	21	NA	Fetus	NA	Fetal anomaly	Miscarriage	LP	Zhao et al., 2021	
+GFM1	NM_024996	c.1865A>G	p.(Asn622Ser)	missense	21	NA	Fetus	NA	Fetal anomaly	Miscarriage	VUS	Zhao et al., 2021	
+DCHS1	NM_003737	c.6421C>T	p.(Arg2141*)	nonsense	NA	NA	Fetus	NA	Fetal demise	Miscarriage	LP	Zhao et al., 2021	
+PKD1	NM_001009944	c.12124C>T	p.(Gln4042*)	nonsense	NA	NA	Fetus	NA	Fetal demise	Miscarriage	P	Zhao et al., 2021	
+AUTS2	NM_015570	c.53C>A	p.(Ser18*)	nonsense	9	NA	Fetus	NA	Missed abortion	Miscarriage	LP	Zhao et al., 2021	
+GATA4	NM_002052	c.1325C>T	p.(Ala442Val)	missense	15	NA	Fetus	NA	Fetal demise	Miscarriage	LP	Zhao et al., 2021	
+FGFR3	NM_000142	c.1537G>T	p.(Asp513Tyr)	missense	11	NA	Fetus	NA	Missed abortion	Miscarriage	LP	Zhao et al., 2021	
+PIK3R2	NM_005027	c.1117G>A	p.(Gly373Arg)	missense	23	NA	Fetus	NA	Fetal anomaly	Miscarriage	P	Zhao et al., 2021	
+SMPD1	NM_000543	c.1133G>A	p.(Arg378His)	missense	13	NA	Fetus	NA	Fetal anomaly	Miscarriage	P	Zhao et al., 2021	
+GPD1L	NM_015141	:c.372A>G	p.(Ile124Met)	missense	20	NA	Fetus	NA	Fetal anomaly	Miscarriage	LP	Zhao et al., 2021	
+F11	NM_000128.3	c.1716+1G>A	NA	splicing donor site	26	NA	Fetus	NA	Fetal demise	Miscarriage	P	Zhao et al., 2021	
+FOXP2	NM_014491.3	c.258+1G>A	NA	splicing donor site	19	NA	Fetus	NA	Spina bifida	Miscarriage	LP	Zhao et al., 2021	
+SETD5	NM_001080517	c.4106dupT	p.(Ser1370Glufs*10)	frameshift	32	NA	Fetus	NA	Fetal demise	Miscarriage	LP	Zhao et al., 2021	
+ATP7B	NM_000053	c.3207C>A	p.(His1069Gln)	missense	26	NA	Fetus	NA	Fetal demise	Miscarriage	P	Zhao et al., 2021	
+FGFR3	NM_000142	c.742C>T	p.(Arg248Cys)	missense	20	NA	Fetus	NA	Skeletal dysplasia	Miscarriage	P	Zhao et al., 2021	
+SCN5A	NM_198056	c.5393G>A	p.(Trp1798*)	nonsense	22	NA	Fetus	NA	Fetal demise	Miscarriage	LP	Zhao et al., 2021	
+GREB1L	NM_001142966	c.1305dupA	p.(Asp436Argfs*32)	frameshift	19	NA	Fetus	NA	Fetal anomaly	Miscarriage	LP	Zhao et al., 2021	
+SMAD6	NM_005585	c.652C>T	p.(Gln218*)	nonsense	7	NA	Fetus	NA	Embryonic demise	Miscarriage	LP	Zhao et al., 2021	
+KIAA1109	NM_015312	c.3986A>G	p.(Tyr1329Cys)	missense	16	NA	Fetus	NA	Fetal demise	Miscarriage	LP	Zhao et al., 2021	
+KIAA1109	NM_015312	c.11093C>G	p.(Ser3698Cys)	missense	16	NA	Fetus	NA	Fetal demise	Miscarriage	VUS	Zhao et al., 2021	
+NEB	NM_001271208	c.24094C>T	p.(Arg8032*)	nonsense	18	NA	Fetus	NA	Fetal anomaly	Miscarriage	LP	Zhao et al., 2021	
+NEB	NM_001271208	:c.20098C>A	p.(Leu6700Ile)	missense	18	NA	Fetus	NA	Fetal anomaly	Miscarriage	VUS	Zhao et al., 2021	
+COL2A1	NA	c.3490G>T	p.1164G>C	missense	12	NO	Trio	De novo	Miscarriage	Miscarriage	P	Carss et al., 2014	
+FGFR3	NA	c.1118A>G	p.373Y>C	missense	22	NO	Trio	De novo	Termination	Termination	P	Carss et al., 2014	
+PRKDC	NA	c.9598C>T	p.3200P>S	NA	22	NO	Trio	Inherited	Termination	Termination	LP	Carss et al., 2014	
+NF1	NA	c. 2747G>A	p.916R>Q	missense	22	NO	Trio	De novo	Termination	Termination	LP	Carss et al., 2014	
+SMARCC2	NA	c.1555C>T	p.519R>∗	missense	22	NO	Trio	De novo	Termination	Termination	LP	Carss et al., 2014	
+RERE	NA	c.4264G>A	p.1422V>M	NA	22	NO	Trio	Inherited	Termination	Termination	LP	Carss et al., 2014	
+MACF1	NA	c.5323G>A	p.1775E>K	NA	21	NO	Trio	Inherited	Termination	Termination	LP	Carss et al., 2014	
+MACF1	NA	c.8626A>G	p.2876I>V	NA	21	NO	Trio	Inherited	Termination	Termination	LP	Carss et al., 2014	
+FRAS1	NA	c.1918C>T	p.640R>C	missense	21	NO	Trio	Inherited	Termination	Termination	LP	Carss et al., 2014	
+FRAS1	NA	c.5205C>A	p.1735H>Q	missense	21	NO	Trio	Inherited	Termination	Termination	LP	Carss et al., 2014	
+DYNC2H1	NM_001080463.1	c.2819-14A>G	NA	NA	19-24	RPL	Trio	Inherited	Termination	Termination	NA	Ellard et al., 2015	
+DYNC2H1	NM_001080463.1	c.7577T>G	p. Ile2526Ser	NA	19-24	RPL	Trio	Inherited	Termination	Termination	NA	Ellard et al., 2015	
+GLE1	NM_001499.2	NA	p.Arg569His	missense	19-24	NO	Trio	Inherited	Termination	Termination	NA	Ellard et al., 2015	
+GLE1	NM_001499.2	NA	p.Val617Met	missense	19-24	NO	Trio	Inherited	Termination	Termination	NA	Ellard et al., 2015	
+RYR1	NA	c.14130-2A>G	NA	missense	19-24	RPL	Trio	Inherited	Termination	Termination	NA	Ellard et al., 2015	
+RYR1	NA	NA	p.Ser3074Phe	missense	19-24	RPL	Trio	Inherited	Termination	Termination	NA	Ellard et al., 2015	
+KIF14	NM_014875.2	c.1750_1751delGA	p.Glu584Ilefs*16	frameshift	19-22	NO	Trio	Inherited	Termination	Termination	NA	Filges et al., 2014	
+KIF14	NM_014875.2	c.1780A>T	p.Arg594*	Stop gained	19-22	NO	Trio	Inherited	Termination	Termination	NA	Filges et al., 2014	
+IFT122	NA	c.1108delG	p.E370Sfs*51	NA	21	RPL	NA	NA	Termination	Termination	NA	Tsurusaki et al., 2014	
+IFT122	NA	c.1636G>A	p.G546R	NA	21	RPL	Mother	Inherited	Termination	Termination	NA	Tsurusaki et al., 2014	
+ATP2A2	NM_001681.3	c.1070C>T	p.T357I	NA	10	RPL	Trio	De novo	Miscarriage	Miscarriage	VUS	Wang et al., 2023	
+RYR2	NM_001035.2	c.4652A>G	p.N1551S	NA	9	RPL	Trio	Inherited	Miscarriage	Miscarriage	VUS	Wang et al., 2023	
+RYR2	NM_001035.2	c.409C>T	p.R137W	missense	9	RPL	Trio	Inherited	Miscarriage	Miscarriage	VUS	Wang et al., 2023	
+NRK	NM_198465.2	c.2812T>C	p.S938P	NA	9	RPL	Trio	Inherited	Miscarriage	Miscarriage	VUS	Wang et al., 2023	
+NAP1L1	NM_004537.4	c.161A>G	p.E54G	NA	9	RPL	Trio	De novo	Miscarriage	Miscarriage	VUS	Wang et al., 2023	
+PLXNB2	NM_012401.3	c.4719C>A	p.D1573E	NA	9	RPL	Trio	Inherited	Miscarriage	Miscarriage	VUS	Wang et al., 2023	
+PLXNB2	NM_012401.3	c.1388G>A	p.R463Q	missense	9	RPL	Trio	Inherited	Miscarriage	Miscarriage	VUS	Wang et al., 2023	
+SSPO	NM_198455.2	c.11879G>A	p.R3960H	NA	12	RPL	Trio	Inherited	Miscarriage	Miscarriage	VUS	Wang et al., 2023	
+SSPO	NM_198455.2	c.12310T>A	p.S4104T	NA	12	RPL	Trio	Inherited	Miscarriage	Miscarriage	VUS	Wang et al., 2023	
+CEP55	NM_001127182	c.256C>T	p.Arg86*	Stop gained	20	RPL	Trio	Inherited	Neonatal death	Miscarriage	NA	Bondeson et al., 2017	
+DNAH14	NM_001373p.M1252K	c.3755 T > A	c.3755 T > A	missense	NA	RPL	NA	NA	Neonatal death	Miscarriage	NA	Shamseldin et al., 2013, Shamseldin et al., 2015	
+CHRNA1	NM_001039523	c.762C > T	p.R254C	missense	NA	RPL	NA	NA	Neonatal death	Miscarriage	NA	Shamseldin et al., 2015	
+CTSA	NM_000308	c.649delC	p.L217fs	Stop gained	NA	RPL	NA	NA	Neonatal death	Miscarriage	NA	Shamseldin et al., 2015	
+ECEL1		c.2023G>A	p.Ala675Thr (Fig.	missense	12-13	RPL	Trio	Inherited	Termination	Termination	NA	Dohrn et al., 2015	
+FOXP3	NM_014009.3	c.1009C>T	p.Arg337Ter	NA	1-13	RPL	Mother	Inherited	Neonatal death	Miscarriage	NA	Rae W, Gao Y, Bunyan D, Holden S, Gilmour K, Patel S, Welles- ley D, Williams A. A novel FOXP3 mutation causing fetal aki- nesia and recurrent male miscarriages. Clin	
+FZD6	NM_001164616	c.773A > G 	p.Y258C	missense	NA	RPL	NA	NA	Neonatal death	Miscarriage	NA	Shamseldin et al., 2015	
+GALNT14	NM_024572	c.C1273T	p.R425X	Stop gained	NA	RPL	NA	NA	Neonatal death	Miscarriage	NA	Shamseldin et al., 2015	
+GUSB	NM_000181	c.1429C>T	p.ARG477Trp	missense	NA	RPL	Fetus	NA	Neonatal death	Miscarriage	(LP) PS1,PM2,PP3	Shamseldin et al., 2015 ; Shamseldin et al., 2018	
+MuSK	NM_005592.3	c.40dupA	Thr14Asnfs*9	frameshift	NA	RPL	Trio	Inherited	Miscarriage	Miscarriage	NA	Wilbe et al., 2015	
+MYOM1	NM_003803	c.4987G > A	p.V1663M	missense	NA	RPL	NA	NA	Neonatal death	Miscarriage	NA	Shamseldin et al., 2015	
+NEB	NM_001164507	c.20974delA	p.Val6993Serfs*8	missense	NA	RPL	Fetus	NA	Neonatal death	Miscarriage	(LP) PVS1,PM2	Shamseldin et al., 2015 ; Shamseldin et al., 2018	
+NOP14	NM_003703.2	136C>G	Arg46Gly	missense	NA	RPL	Trio	Inherited	Miscarriage	Miscarriage	NA	Suzuki et al., 2018	
+PIGC	NM_002642	c.659 T > C	p.L220P	missense	NA	RPL	NA	NA	Neonatal death	Miscarriage	NA	Shamseldin et al., 2015	
+RYR1	NM_000540	c.6721C > T	p.Arg2241STOP	in frame insertion	13	RPL	Trio	Inherited	Miscarriage	Miscarriage	NA	McKie et al., 2014	
+STIL	NM_001048166.1	c.A3370G	p.Met1124Val	missense	7-11	RPL	Trio	Inherited	Miscarriage	Miscarriage	NA	Cristofoli et al., 2017	
+STIL	NM_001048166.1	c.C1231G 	p.His411Asp	missense	7-11	RPL	Trio	Inherited	Miscarriage	Miscarriage	NA	Cristofoli et al., 2017	
+THSD1	NM_018676	c.617G>A	p.Cys206Tyr	missense	NA	RPL	Fetus	NA	Neonatal death	Miscarriage	(LP)PS1,PM2	Shamseldin et al., 2015 ; Shamseldin et al., 2018	
+UBN1	NM_016936	c.2356 T > A	p.L786M	missense	NA	RPL	NA	NA	Neonatal death	Miscarriage	NA	Shamseldin et al., 2015	
+WNT6	NA	NA	p.Leu148Arg	NA	NA	RPL	NA	NA	MIscarriage	Miscarriage	NA	Zhang et al., 2015 	
+HERG	NM_000238	c.3208C>T	p.Q1070X	Stop gained	NA	RPL	Trio	Inherited	MIscarriage	Miscarriage	NA	Bhuiyan et al., 2008 	
+APAF1	NM_181861.1	c.781C > T	p.L261F	missense	NA	NO	Trio	Inherited	MIscarriage	Miscarriage	NA	Spellicy et al. 2018	
+CASP9	NM_001229.4	c.710A > C	p.H237P	frameshift	NA	NO	Trio	Inherited	MIscarriage	Miscarriage	NA	Spellicy et al. 2018	
+NLRP5	NM_153447.4	c.1664G>T 	p.Gly555Val	NA	NA	NA	Trio	Inherited	Miscarriage	Miscarriage	NA	Docherty et al. 2015	
+NLRP5	NM_153447.4	c.2320T>C 	p.Cys774Arg	NA	NA	NA	Trio	Inherited	Miscarriage	Miscarriage	NA	Docherty et al. 2015	
+MMP10	NA	c.595G>A	p. Asp199Asn	NA	<10	RPL	NA	NA	Miscarriage	Miscarriage	NA	Quintero-Ronderos et al. 2017	
+FGA	NA	c.2054T>G	p.Phe685Cys	NA	<10	RPL	NA	NA	Miscarriage	Miscarriage	NA	Quintero-Ronderos et al. 2017	
+FLT1	NA	c.953C>T	p.Ser318Leu	NA	10-20	RPL	NA	NA	Miscarriage	Miscarriage	NA	Quintero-Ronderos et al. 2017	
+FLT1	NA	c.2435G>A	p. Arg812Gln	NA	<10	RPL	NA	NA	Miscarriage	Miscarriage	NA	Quintero-Ronderos et al. 2017	
+EPAS1	NA	c.1510C>G	p.Leu504Val	NA	<10	RPL	NA	NA	Miscarriage	Miscarriage	NA	Quintero-Ronderos et al. 2017	
+PADI6	NA	c.1793A > G	Asn598Ser	missense	NA	RPL	Trio	Inherited	Miscarriage	Miscarriage	NA	Qian et al. 2018	
+PADI6	NA	c.2045 G > A	Arg682Gln	missense	NA	RPL	Trio	Inherited	Miscarriage	Miscarriage	NA	Qian et al. 2018	
+CAPS	ENST00000588776	c.377delC	p.Leu127Trpfs	frameshift	NA	RPL	Trio	Inherited	Termination	Termination		Pan et al. 2019	
+FOXP3	NM_014009.3	c.906delT	p.D303fs*87	missense	18-20	RPL	Trio	Inherited	Miscarriage	Miscarriage	P	Shehab et al. 2017	
+NLRP2	NM_017852.4	c.1479_1480del	p.Arg493SerfsTer32	NA	NA	RPL	NA	Inherited	Miscarriage	Miscarriage	NA	Begemann et al. 2018	
+NLRP7	NM_001127255.1	c.2161C>T	p.Arg721Trp	NA	NA	RPL	NA	Inherited	Miscarriage	Miscarriage	NA	Begemann et al. 2018	
+ALPL	NM_001177520	c.1195G>A	p.Glu399Lys	missense	NA	RPL	Fetus	NA	Neonatal death	Miscarriage	(LP) PM1,PM2,PP3,PP4	Shamseldin et al., 2018	
+SLC17A5	NM_012434	c.738_741del	p.246_247del	stop gained	NA	RPL	Fetus	NA	Neonatal death	Miscarriage	(LP) PVS1,PM2	Shamseldin et al., 2018	
+MRPS16	NM_016065	c.331C>T	p.Arg111*	stop gained	NA	RPL	Duo	NA	Neonatal death	Miscarriage	(P) PS1,PS3,PM2	Shamseldin et al., 2018	
+PIEZO1	NM_001142864	c.1264C>T	p.Gln422*	stop gained	NA	RPL	NA	NA	Neonatal death	Miscarriage	(LP)PVS1,PM2	Shamseldin et al., 2018	
+INVS	NM_014425	c.753T>G	p.Try251*	stop gained	NA	RPL	Fetus	NA	Neonatal death	Miscarriage	(LP) PVS1,PM2	Shamseldin et al., 2018	
+FKTN	NM_006731	c.78C>G	p.Tyr26*	stop gained	NA	RPL	Fetus	NA	Neonatal death	Miscarriage	(LP)PVS1,PM2	Shamseldin et al., 2018	
+MYBPC3	NM_000256.3	c.2449C>T	p.Arg817Trp	missense	NA	RPL	Fetus	NA	Neonatal death	Miscarriage	(LP)PS1,PM2,PP1,PP3	Shamseldin et al., 2018	
+COL11A2	NM_080679	c.1550dupC	p.Pro517fSer	stop gained	NA	RPL	Fetus	NA	Neonatal death	Miscarriage	(LP) PVS1,PM2	Shamseldin et al., 2018	
+KRIT1	NM_194455	c.992A>G	p.Tyr331Cys	missense	NA	RPL	Fetus	NA	Neonatal death	Miscarriage	(LP) PM1,PM2,PP1,PP3	Shamseldin et al., 2018	
+ASCC1	NM_001198800	c.871+1G>A	NA	splicing	NA	RPL	Fetus	NA	Neonatal death	Miscarriage	(LP)PVS1,PM2	Shamseldin et al., 2018	
+LZTR1	NM_006767:	c.2317G>A	p.Val773Met	missense	NA	RPL	Fetus	NA	Neonatal death	Miscarriage	(VUS) PM2,PP2,PP3	Shamseldin et al., 2018	
+TTC21B	NM_024753.4	c.1176_1185+1del	NA	splicing	NA	RPL	Fetus	NA	Neonatal death	Miscarriage	(LP)PVS1,PM2	Shamseldin et al., 2018	
+AGT	NM_000029	c.104G>A	p.Arg35Gln	missense	NA	RPL	Fetus	NA	Neonatal death	Miscarriage	(VUS) PM2,PP3,PP4	Shamseldin et al., 2018	
+KLHL41	NM_006063	c.176G>C	p.Arg59Pro	missense	NA	RPL	Fetus	NA	Neonatal death	Miscarriage	(LP)PM1,PM2,PP2,PP3	Shamseldin et al., 2018	
+GFPT1	NM_001244710	c.686-1G>A	NA	splicing	NA	RPL	Duo	NA	Neonatal death	Miscarriage	(LP) PVS1,PM2	Shamseldin et al., 2018	
+WDR81	NM_001163809	c.845G>A	p.Gly282Glu	missense	NA	RPL	Fetus	NA	Neonatal death	Miscarriage	(LP) PM2,PP2,PP3,PP4,PP5	Shamseldin et al., 2018	
+RYR1	NM_000540	c.2097_2123del	p.Glu699_Gly707del	in frame deletion	19	NO	Trio	Inherited	Termination	Termination	NA	McKie et al., 2014	
+RYR1	NM_000540	c.7043delGAG	p.Glu2347del	in frame insertion	24	RPL	Trio	Inherited	Termination	Termination	NA	McKie et al., 2014	
+PIEZO1	NM_001142864	c.2035 G>T	p.E679X	NA	14-39	NA	Trio or Quad	Inherited	NA	NA	P or LP	Yates et al., 2017	fetal demise or pregnancy termination
+BBS4	NM_033028	c.1106+2T>A	Splicing	NA	14-39	NA	Trio or Quad	Inherited	NA	NA	P or LP	Yates et al., 2017	
+HRAS	NM_005343	c.38 G>A	p.G13D	NA	14-39	NA	Trio or Quad	Inherited	NA	NA	P or LP	Yates et al., 2017	
+RIPK4	NM_020639	c.28 G>T	p.A10S	NA	14-39	NA	Trio or Quad	Inherited	NA	NA	P or LP	Yates et al., 2017	
+FGFR2	NM_000141	c.940-1G>A	Splicing	NA	14-39	NA	Trio or Quad	De novo	NA	NA	P or LP	Yates et al., 2017	
+PTPN11	NM_002834	c.174 C>A	p.N58K	NA	14-39	NA	Trio or Quad	De novo	NA	NA	P or LP	Yates et al., 2017	
+PIK3CA	NM_006218	c.1633 G>A	p.E545K	NA	14-39	NA	Trio or Quad	De novo	NA	NA	P	Yates et al., 2017	
+FOXP3	NM_014009	c.1009 C>T	p.R337X	NA	14-39	NA	Trio or Quad	Inherited	NA	NA	P or LP	Yates et al., 2017	
+MRPS22	NM_020191	c.768_769delTG	p.G257KfsX3	NA	14-39	NA	Trio or Quad	Inherited	NA	NA	P or LP	Yates et al., 2017	
+MRPS22	NM_020191	c.509 G>A	p.R170H	NA	14-39	NA	Trio or Quad	Inherited	NA	NA	P or LP	Yates et al., 2017	
+FLNA	NM_001456	c.1654 G>A	p.V552I	NA	14-39	NA	Trio or Quad	Inherited	NA	NA	P or LP	Yates et al., 2017	
+CYP11A1	NM_000781	c.358 C>T	p.R120X	NA	14-39	NA	Trio or Quad	Inherited	NA	NA	P or LP	Yates et al., 2017	
+FANCB	NM_001018113	c.990_993delAGAT	p.I330MfsX19	NA	14-39	NA	Trio or Quad	De novo	NA	NA	P or LP	Yates et al., 2017	
+AMER1	NM_152424	c.705delT	p.P237QfsX45	NA	14-39	NA	Trio or Quad	Inherited	NA	NA	P or LP	Yates et al., 2017	
+RIT1 	NM_006912	c.245 T>G	p.F82C	NA	14-39	NA	Trio or Quad	De novo	NA	NA	P or LP	Yates et al., 2017	
+PIK3R2	NM_005027	c.1690 A>G	p.K564E	NA	14-39	NA	Trio or Quad	De novo	NA	NA	P or LP	Yates et al., 2017	
+L1CAM 	NM_000425	c.2087delG	p.G696AfsX26	NA	14-39	NA	Trio or Quad	Inherited	NA	NA	P or LP	Yates et al., 2017	
+SOX9	NM_000346	c.738delG	p.Q246HfsX7	NA	14-39	NA	Trio or Quad	Inherited	NA	NA	P or LP	Yates et al., 2017	
+COL1A2	NA	c.1361G>T 	p.G454V	NA	19-24	NA	Trio	De novo	NA	NA	P	Alamillo et al., 2015	fetal demise or termination
+GBE1	NA	c.1064G>A	p.R355H	NA	19-24	NA	Trio	Inherited	NA	NA	LP	Alamillo et al., 2015	
+GBE1	NA	c.1543C>T 	p.R515C	NA	19-24	NA	Trio	Inherited	NA	NA	P	Alamillo et al., 2015	
+OFD1	NA	c.929T>C 	p.F310S	NA	19-24	NA	Trio	M inherited	NA	NA	LP	Alamillo et al., 2015	
+RAPSN	NA	c.484G>A 	p.E162K	NA	19-24	NA	Trio	Inherited	NA	NA	P	Alamillo et al., 2015	
+EPAS1	NA	c.1463A>G	p.Tyr488Cys	NA	<10	RPL	NA	NA	Miscarriage	Miscarriage	NA	Quintero-Ronderos et al. 2017	
+IDO2	NA	c.749T>C	p.Phe250Ser	NA	0-20	RPL	NA	NA	Miscarriage	Miscarriage	NA	Quintero-Ronderos et al. 2017	
+IDO2	NA	c.539T>G	p.Phe180Cys	NA	<10	RPL	NA	NA	Miscarriage	Miscarriage	NA	Quintero-Ronderos et al. 2017	
+TRO	NA	c.2909G>A	p.Gly970Asp	NA	between 10-20	RPL	NA	NA	Miscarriage	Miscarriage	NA	Quintero-Ronderos et al. 2017	
+CDH1	NA	c.164T>G	p.Val55Gly	NA	<10	RPL	NA	NA	Miscarriage	Miscarriage	NA	Quintero-Ronderos et al. 2017	
+CDH11	NA	c.1355C>G	p.Ala452Gly	NA	<10	RPL	NA	NA	Miscarriage	Miscarriage	NA	Quintero-Ronderos et al. 2017	
+THBD	NA	c.457T>G	p.Trp153Gly	NA	0-20	RPL	NA	NA	Miscarriage	Miscarriage	NA	Quintero-Ronderos et al. 2017	
+F5	NA	c.4619A>C	p.Glu1540Ala (p.Glu1512Ala)	NA	<10	RPL	NA	NA	Miscarriage	Miscarriage	NA	Quintero-Ronderos et al. 2017	
+F5	NA	c.5932A>C	p.Thr1978Pro (p.Thr1950Pro)	NA	<10	RPL	NA	NA	Miscarriage	Miscarriage	NA	Quintero-Ronderos et al. 2017	
+MMP9	NA	c.17C>T	p.Pro6Leu	NA	<10	RPL	NA	NA	Miscarriage	Miscarriage	NA	Quintero-Ronderos et al. 2017	
+COL6A3	NA	c.6859C>T	p.Arg2287Trp	NA	<10	RPL	NA	NA	Miscarriage	Miscarriage	NA	Quintero-Ronderos et al. 2017	
+ADAMTS1	NA	c.2068G>C	p.Val690Leu	NA	<10	RPL	NA	NA	Miscarriage	Miscarriage	NA	Quintero-Ronderos et al. 2017	
+TNC	NA	c.4063G>A	p.Val1355Met	NA	<10	RPL	NA	NA	Miscarriage	Miscarriage	NA	Quintero-Ronderos et al. 2017	
+LIFR	NA	c.2338C>T	p.Arg780Cys	NA	<10	RPL	NA	NA	Miscarriage	Miscarriage	NA	Quintero-Ronderos et al. 2017	
+FGFR2	NA	c.1088C>T	p.Ala363Val	NA	<10	RPL	NA	NA	Miscarriage	Miscarriage	NA	Quintero-Ronderos et al. 2017	
+BMP7	NA	c.448C>T	p.Arg150Cys	NA	<10	RPL	NA	NA	Miscarriage	Miscarriage	NA	Quintero-Ronderos et al. 2017	
+AMN	NA	c.207G>A	p.Met69Ile	NA	<10	RPL	NA	NA	Miscarriage	Miscarriage	NA	Quintero-Ronderos et al. 2017	
+CR1	NA	c.4501A>G	p.Thr1501Ala	NA	<10	RPL	NA	NA	Miscarriage	Miscarriage	NA	Quintero-Ronderos et al. 2017	
+TLR3	NA	c.2384C>T	p.Ala795Val	NA	<10	RPL	NA	NA	Miscarriage	Miscarriage	NA	Quintero-Ronderos et al. 2017	
+TRAF3IP1	NA	c.415C>T	p.Arg139Trp	NA	<10	RPL	NA	NA	Miscarriage	Miscarriage	NA	Quintero-Ronderos et al. 2017	
+NCOA1	NA	c.2011T>G	p.Ser671Ala	NA	<10	RPL	NA	NA	Miscarriage	Miscarriage	NA	Quintero-Ronderos et al. 2017	
+
