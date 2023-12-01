@@ -5,11 +5,15 @@ library(msigdbr)
 library(corrgram)
 library(RColorBrewer)
 library(matrixStats)
+setwd("/media/barbitoff/DATA/Working issues/WES/BRK/Pregnancy_loss/analysis_revamp")
 
 #GO(BP,MF,CC)
 variant_data = read.table('variant_full_list.txt', sep='\t', header=T)
 colnames(variant_data)
 #Data <- read.csv('unique_gene.txt', header = TRUE, sep = "\t")
+
+# Trimester proportions
+table(ceiling(as.numeric(variant_data$Gestational_age_weeks)/13))
 
 genes_plot <- enrichGO(gene = unique(variant_data$Gene),
                        OrgDb = "org.Hs.eg.db",
@@ -143,12 +147,14 @@ ggplot(GTEX_SAB, aes(x=Type, y=TPM10, fill=Type)) +
 #Prediction
 # LOEUF filtering
 loeuf_cutoff = median(PL_table$oe_lof_upper, na.rm = T)
+#loeuf_cutoff = quantile(PL_table$oe_lof_upper, probs=0.75, na.rm = T)
 print(loeuf_cutoff)
 Gnomad_Loeuf_filter <- Gnomad_table_cut[Gnomad_table_cut$oe_lof_upper < loeuf_cutoff, ]
 Gnomad_Loeuf <- na.omit(Gnomad_Loeuf_filter) 
 
 #Median expression filter
 median_exp_cutoff = median(PL_table$Median, na.rm = T)
+#median_exp_cutoff = quantile(PL_table$Median, probs=0.25, na.rm = T)
 print(median_exp_cutoff)
 GTEX_Gnomad_Loeuf <-merge(Gnomad_Loeuf, GTEX_table, by="gene")
 Loeuf_Median_filter <- GTEX_Gnomad_Loeuf[GTEX_Gnomad_Loeuf$Median > median_exp_cutoff,]
@@ -157,24 +163,28 @@ Loeuf_Median_filter <- Loeuf_Median_filter [, c('gene', 'oe_lof_upper', 'Median'
 #BIOGRID
 BIOGRID<- read.csv('BIOGRID-ORGANISM-Homo_sapiens-4.4.225.tab3.txt', 
                    header = TRUE, sep = "\t")
-DF_A_B <- BIOGRID[(BIOGRID$Official.Symbol.Interactor.A %in% Data_SAB$gene) | 
-                    (BIOGRID$Official.Symbol.Interactor.B %in% Data_SAB$gene) ,]
+DF_A_B <- BIOGRID[(BIOGRID$Official.Symbol.Interactor.A %in% Data_PL$gene) | 
+                    (BIOGRID$Official.Symbol.Interactor.B %in% Data_PL$gene) ,]
 Interactors <- unique(c(DF_A_B$Official.Symbol.Interactor.A, 
                         DF_A_B$Official.Symbol.Interactor.B))
 Interacting_genes <- Loeuf_Median_filter[Loeuf_Median_filter$gene %in% Interactors, ]
 
+table(Data_PL$gene %in% Interacting_genes$gene)
 
 #C2 pathways filter
-C2_all<- read.csv('c2.all.tsv', header = FALSE, sep = "\t")
-ALL_SAB_C2 <- read.csv('Enrich_MSGDIB_C2_ALL_SAB.csv', header = TRUE, sep = "\t")
-ALL_SAB_C2 <- head(ALL_SAB_C2,10)
-Merge_SAB_C2_ALL <- merge(ALL_SAB_C2,C2_all, by.x ="ID", by.y ="V1")
-write.table(Merge_SAB_C2_ALL,"Prediction.csv",quote = F,sep = "\t",row.names = F)
+C2_all <- read.csv('c2.all.tsv', header = FALSE, sep = "\t")
+ALL_SAB_C2 <- read.csv('Enrich_MSGDIB_C2_SAB.csv', header = TRUE, sep = "\t")
+ALL_SAB_C2_TOP <- head(ALL_SAB_C2, 10)
+C2_top <- C2_all[C2_all$V1 %in% ALL_SAB_C2_TOP$ID, ]
+C2_enriched <- C2_all[C2_all$V1 %in% ALL_SAB_C2$ID, ]
 
-UNIQUE_PR_GENES<-unique(unlist(sapply(c(Merge_SAB_C2_ALL$V3), function(x) strsplit(x, ';')[[1]])))
-SELECTED_GENES<-Loeuf_Median_filter$gene
-Predicted_genes<-intersect(SELECTED_GENES,UNIQUE_PR_GENES)
-print(Predicted_genes)
-write.csv(Predicted_genes, file = 'my_data.csv')
+UNIQUE_PR_GENES <- unique(unlist(sapply(c(C2_top$V3), function(x) strsplit(x, ';')[[1]])))
+Predicted_genes <- Interacting_genes[Interacting_genes$gene %in% UNIQUE_PR_GENES, ]
+table(Data_PL$gene %in% Predicted_genes$gene)
 
-write.csv(Interacting_genes, file = 'gene_list.csv')
+PR_GENES_ALL <- unique(unlist(sapply(c(C2_enriched$V3), function(x) strsplit(x, ';')[[1]])))
+Broad_Predicted_genes <- Interacting_genes[Interacting_genes$gene %in% PR_GENES_ALL, ]
+table(Data_PL$gene %in% Broad_Predicted_genes$gene)
+
+
+write.csv(Predicted_genes, file = 'prediction_results.csv', sep='\t')
