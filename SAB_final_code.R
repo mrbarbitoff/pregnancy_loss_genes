@@ -5,7 +5,7 @@ library(msigdbr)
 library(corrgram)
 library(RColorBrewer)
 library(matrixStats)
-setwd("/media/barbitoff/DATA/Working issues/WES/BRK/Pregnancy_loss/analysis_revamp")
+setwd("/media/barbitoff/DATA/Working issues/WES/BRK/Pregnancy_loss/pregnancy_loss_genes/")
 
 #GO(BP,MF,CC)
 variant_data = read.table('variant_full_list.txt', sep='\t', header=T)
