@@ -187,4 +187,19 @@ Broad_Predicted_genes <- Interacting_genes[Interacting_genes$gene %in% PR_GENES_
 table(Data_PL$gene %in% Broad_Predicted_genes$gene)
 
 
-write.csv(Predicted_genes, file = 'prediction_results.csv', sep='\t')
+write.table(Predicted_genes, file = 'prediction_results_narrow.tsv', 
+            sep='\t', row.names=F)
+write.table(Broad_Predicted_genes, file = 'prediction_results_broad.tsv', 
+            sep='\t', row.names=F)
+
+# Checking disease associations for the predicted gene list
+Monogen <- read.csv('HPO_InheritanceInfo.csv', header = TRUE, sep = "\t")
+Monogen_predicted_narrow <- merge(Predicted_genes, Monogen, 
+                                  by.x ="gene", by.y ="gene_symbol")
+table(sapply(Predicted_genes$gene, function(x) x %in% Monogen_predicted_narrow$gene))
+
+Monogen_predicted_broad <- merge(Broad_Predicted_genes, Monogen, 
+                                  by.x ="gene", by.y ="gene_symbol")
+table(sapply(Broad_Predicted_genes$gene, 
+             function(x) x %in% Monogen_predicted_broad$gene))
+
